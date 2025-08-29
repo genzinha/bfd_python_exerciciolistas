@@ -1,22 +1,3 @@
-"""
-9- Crie uma lista valores = [10, 20, 30, 40]. Use um laço for para calcular manualmente a soma de todos os valores.
-
-10- Use input para receber 3 notas de dois alunos. As notas de cada aluno precisam ser armazenadas em uma lista separada que deve ser armazenada dentro de outra lista chamada notas, exemplo:
-notas = [[7, 8, 9], [6, 5, 7]]. No fim, imprima a média de cada aluno.
-
-11- Usando list comprehension, crie um tabuleiro de xadrez vazio e depois adicione todas as peças do jogo na posição inicial. Para melhorar a visualização do tabuleiro, identifique as posições do tabuleiro da seguinte forma:
-
-[ ] - para posições vazias
-tor - para a torre
-cav - para o cavalo
-bis - para o bispo
-rai - para a rainha
-rei - para o rei
-pea - para o peão
-Por fim imprima o tabuleiro na tela, deixando cada linha da matriz abaixo da outra. (Dica você pode usar a biblioteca numpy para auxiliar na impressão da matriz)
-
-"""
-
 # 1- Crie uma lista chamada livros contendo 3 livros diferentes e exiba a lista na tela.
 
 livros = ["O Nome da Rosa", "Crime e Castigo", "O Hobbit"]
